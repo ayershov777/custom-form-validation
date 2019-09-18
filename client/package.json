@@ -1,0 +1,30 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "react-scripts start"
+  },
+  "author": "Anthony Yershov",
+  "license": "ISC",
+  "dependencies": {
+    "bad-words": "^3.0.3",
+    "react": "^16.9.0",
+    "react-bootstrap": "^1.0.0-beta.12",
+    "react-dom": "^16.9.0",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^3.1.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
