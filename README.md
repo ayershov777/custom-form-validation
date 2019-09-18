@@ -20,6 +20,10 @@ Here are some validation options you can test out.
 1. Try writing a weak password, and then watch as the messages change as you make it stronger as suggested
 1. Test out all the other fields and see if you can maybe break something, it shouldn't be easy.
 
+## some comments
+1. It may seem counterintuitive, but the display name does not have to be unique.
+2. The api I'm using to detect inappropriate words does not work very well. I've included the feature just to demonstrate that anything can be customizable.
+
 ## technologies used
 
 1. MERN (mongodb, express, react, node.js)
