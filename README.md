@@ -9,7 +9,16 @@ My goal when creating this project was to stay as DRY as possible. I created a c
 To review the code for yourself, please look at `src/pages/SignupPage/SignupPage.jsx`.
 
 ## Demo
+deployed on heroku -> https://custom-form-validation.herokuapp.com
 
+![example](https://i.imgur.com/aU0Osy0.png)
+
+Here are some validation options you can test out.  
+1. Try an email that's already registered in the database (user1@email.com)
+1. Try creating an account using a fake email, and then test that same email again.
+1. Try writing an inappropriate word in the displayName field
+1. Try writing a weak password, and then watch as the messages change as you make it stronger as suggested
+1. Test out all the other fields and see if you can maybe break something, it shouldn't be easy.
 
 ## technologies used
 
