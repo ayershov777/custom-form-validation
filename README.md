@@ -9,7 +9,8 @@ My goal when creating this project was to stay as DRY as possible. I created a c
 To review the code for yourself, please look at `client/src/pages/SignupPage/SignupPage.jsx`.
 
 ## Demo
-deployed on heroku -> https://custom-form-validation.herokuapp.com
+deployed on heroku -> https://custom-form-validation.herokuapp.com  
+(it may take up to 15 seconds to load as the server shuts down after 30 minutes of inactivity)
 
 ![example](https://i.imgur.com/aU0Osy0.png)
 
