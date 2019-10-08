@@ -11,6 +11,7 @@ To review the code for yourself, please look at `client/src/pages/SignupPage/Sig
 ## Demo
 deployed on heroku -> https://custom-form-validation.herokuapp.com  
 (it may take up to 1 minute to load as the server shuts down after 30 minutes of inactivity)
+Please don't use any real personal data!
 
 ![example](https://i.imgur.com/aU0Osy0.png)
 
